@@ -1,0 +1,12 @@
+testEnglishCaseIdentity (__main__.StringCompareTest) ... ok
+testEnglishIdentity (__main__.StringCompareTest) ... ok
+testEnglishNonIdentity (__main__.StringCompareTest) ... ok
+testEstonianIdentity (__main__.StringCompareTest) ... ok
+testEstonianUnicodeIdentity (__main__.StringCompareTest) ... ok
+testKoreanIdentity (__main__.StringCompareTest) ... ok
+testKoreanUnicodeIdentity (__main__.StringCompareTest) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK
